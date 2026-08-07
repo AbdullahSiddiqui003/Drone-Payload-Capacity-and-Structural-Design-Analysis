@@ -38,11 +38,11 @@ The analysis uses the following assumptions:
 
 
                       
- Motors = 4 
- Maximum thrust/motor = 1 kg 
- Base drone mass = 1 kg 
- Minimum payload  = 0.5 kg 
- Minimum T/W ratio = 2:1
+ Motors = 4, 
+ Maximum thrust/motor = 1 kg, 
+ Base drone mass = 1 kg, 
+ Minimum payload  = 0.5 kg, 
+ Minimum T/W ratio = 2:1,
  Gravity = 9.81 m/s² 
 
 The FEA models apply motor thrust, drone/payload weight, and gravity to each arm. Maximum displacement, von Mises stress, and factor of safety are then calculated.
